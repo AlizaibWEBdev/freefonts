@@ -1,0 +1,492 @@
+[
+  {
+    "name": "Roboto",
+    "cdn": "https://fonts.googleapis.com/css2?family=Roboto&display=swap",
+    "family": "Roboto"
+  },
+  {
+    "name": "Open Sans",
+    "cdn": "https://fonts.googleapis.com/css2?family=Open+Sans&display=swap",
+    "family": "Open Sans"
+  },
+  {
+    "name": "Lato",
+    "cdn": "https://fonts.googleapis.com/css2?family=Lato&display=swap",
+    "family": "Lato"
+  },
+  {
+    "name": "Montserrat",
+    "cdn": "https://fonts.googleapis.com/css2?family=Montserrat&display=swap",
+    "family": "Montserrat"
+  },
+  {
+    "name": "Poppins",
+    "cdn": "https://fonts.googleapis.com/css2?family=Poppins&display=swap",
+    "family": "Poppins"
+  },
+  {
+    "name": "Nunito",
+    "cdn": "https://fonts.googleapis.com/css2?family=Nunito&display=swap",
+    "family": "Nunito"
+  },
+  {
+    "name": "Ubuntu",
+    "cdn": "https://fonts.googleapis.com/css2?family=Ubuntu&display=swap",
+    "family": "Ubuntu"
+  },
+  {
+    "name": "Raleway",
+    "cdn": "https://fonts.googleapis.com/css2?family=Raleway&display=swap",
+    "family": "Raleway"
+  },
+  {
+    "name": "Oswald",
+    "cdn": "https://fonts.googleapis.com/css2?family=Oswald&display=swap",
+    "family": "Oswald"
+  },
+  {
+    "name": "Merriweather",
+    "cdn": "https://fonts.googleapis.com/css2?family=Merriweather&display=swap",
+    "family": "Merriweather"
+  },
+  {
+    "name": "Playfair Display",
+    "cdn": "https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap",
+    "family": "Playfair Display"
+  },
+  {
+    "name": "Source Sans Pro",
+    "cdn": "https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap",
+    "family": "Source Sans Pro"
+  },
+  {
+    "name": "Inter",
+    "cdn": "https://fonts.googleapis.com/css2?family=Inter&display=swap",
+    "family": "Inter"
+  },
+  {
+    "name": "Noto Sans",
+    "cdn": "https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap",
+    "family": "Noto Sans"
+  },
+  {
+    "name": "PT Sans",
+    "cdn": "https://fonts.googleapis.com/css2?family=PT+Sans&display=swap",
+    "family": "PT Sans"
+  },
+  {
+    "name": "Rubik",
+    "cdn": "https://fonts.googleapis.com/css2?family=Rubik&display=swap",
+    "family": "Rubik"
+  },
+  {
+    "name": "Work Sans",
+    "cdn": "https://fonts.googleapis.com/css2?family=Work+Sans&display=swap",
+    "family": "Work Sans"
+  },
+  {
+    "name": "Fira Sans",
+    "cdn": "https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap",
+    "family": "Fira Sans"
+  },
+  {
+    "name": "Quicksand",
+    "cdn": "https://fonts.googleapis.com/css2?family=Quicksand&display=swap",
+    "family": "Quicksand"
+  },
+  {
+    "name": "Dosis",
+    "cdn": "https://fonts.googleapis.com/css2?family=Dosis&display=swap",
+    "family": "Dosis"
+  },
+  {
+    "name": "Exo 2",
+    "cdn": "https://fonts.googleapis.com/css2?family=Exo+2&display=swap",
+    "family": "Exo 2"
+  },
+  {
+    "name": "Josefin Sans",
+    "cdn": "https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap",
+    "family": "Josefin Sans"
+  },
+  {
+    "name": "Mukta",
+    "cdn": "https://fonts.googleapis.com/css2?family=Mukta&display=swap",
+    "family": "Mukta"
+  },
+  {
+    "name": "Arimo",
+    "cdn": "https://fonts.googleapis.com/css2?family=Arimo&display=swap",
+    "family": "Arimo"
+  },
+  {
+    "name": "Barlow",
+    "cdn": "https://fonts.googleapis.com/css2?family=Barlow&display=swap",
+    "family": "Barlow"
+  },
+  {
+    "name": "Titillium Web",
+    "cdn": "https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap",
+    "family": "Titillium Web"
+  },
+  {
+    "name": "Libre Franklin",
+    "cdn": "https://fonts.googleapis.com/css2?family=Libre+Franklin&display=swap",
+    "family": "Libre Franklin"
+  },
+  {
+    "name": "Karla",
+    "cdn": "https://fonts.googleapis.com/css2?family=Karla&display=swap",
+    "family": "Karla"
+  },
+  {
+    "name": "Cabin",
+    "cdn": "https://fonts.googleapis.com/css2?family=Cabin&display=swap",
+    "family": "Cabin"
+  },
+  {
+    "name": "Hind",
+    "cdn": "https://fonts.googleapis.com/css2?family=Hind&display=swap",
+    "family": "Hind"
+  },
+  {
+    "name": "Varela Round",
+    "cdn": "https://fonts.googleapis.com/css2?family=Varela+Round&display=swap",
+    "family": "Varela Round"
+  },
+  {
+    "name": "Asap",
+    "cdn": "https://fonts.googleapis.com/css2?family=Asap&display=swap",
+    "family": "Asap"
+  },
+  {
+    "name": "Manrope",
+    "cdn": "https://fonts.googleapis.com/css2?family=Manrope&display=swap",
+    "family": "Manrope"
+  },
+  {
+    "name": "Sarabun",
+    "cdn": "https://fonts.googleapis.com/css2?family=Sarabun&display=swap",
+    "family": "Sarabun"
+  },
+  {
+    "name": "Public Sans",
+    "cdn": "https://fonts.googleapis.com/css2?family=Public+Sans&display=swap",
+    "family": "Public Sans"
+  },
+  {
+    "name": "DM Sans",
+    "cdn": "https://fonts.googleapis.com/css2?family=DM+Sans&display=swap",
+    "family": "DM Sans"
+  },
+  {
+    "name": "Comfortaa",
+    "cdn": "https://fonts.googleapis.com/css2?family=Comfortaa&display=swap",
+    "family": "Comfortaa"
+  },
+  {
+    "name": "Archivo",
+    "cdn": "https://fonts.googleapis.com/css2?family=Archivo&display=swap",
+    "family": "Archivo"
+  },
+  {
+    "name": "Heebo",
+    "cdn": "https://fonts.googleapis.com/css2?family=Heebo&display=swap",
+    "family": "Heebo"
+  },
+  {
+    "name": "Yanone Kaffeesatz",
+    "cdn": "https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz&display=swap",
+    "family": "Yanone Kaffeesatz"
+  },
+  {
+    "name": "Signika",
+    "cdn": "https://fonts.googleapis.com/css2?family=Signika&display=swap",
+    "family": "Signika"
+  },
+  {
+    "name": "Catamaran",
+    "cdn": "https://fonts.googleapis.com/css2?family=Catamaran&display=swap",
+    "family": "Catamaran"
+  },
+  {
+    "name": "ABeeZee",
+    "cdn": "https://fonts.googleapis.com/css2?family=ABeeZee&display=swap",
+    "family": "ABeeZee"
+  },
+  {
+    "name": "Overpass",
+    "cdn": "https://fonts.googleapis.com/css2?family=Overpass&display=swap",
+    "family": "Overpass"
+  },
+  {
+    "name": "Prompt",
+    "cdn": "https://fonts.googleapis.com/css2?family=Prompt&display=swap",
+    "family": "Prompt"
+  },
+  {
+    "name": "Saira",
+    "cdn": "https://fonts.googleapis.com/css2?family=Saira&display=swap",
+    "family": "Saira"
+  },
+  {
+    "name": "Space Grotesk",
+    "cdn": "https://fonts.googleapis.com/css2?family=Space+Grotesk&display=swap",
+    "family": "Space Grotesk"
+  },
+  {
+    "name": "Figtree",
+    "cdn": "https://fonts.googleapis.com/css2?family=Figtree&display=swap",
+    "family": "Figtree"
+  },
+  {
+    "name": "Plus Jakarta Sans",
+    "cdn": "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans&display=swap",
+    "family": "Plus Jakarta Sans"
+  },
+  {
+    "name": "Lexend",
+    "cdn": "https://fonts.googleapis.com/css2?family=Lexend&display=swap",
+    "family": "Lexend"
+  },
+  {
+    "name": "Encode Sans",
+    "cdn": "https://fonts.googleapis.com/css2?family=Encode+Sans&display=swap",
+    "family": "Encode Sans"
+  },
+  {
+    "name": "Red Hat Display",
+    "cdn": "https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap",
+    "family": "Red Hat Display"
+  },
+  {
+    "name": "Epilogue",
+    "cdn": "https://fonts.googleapis.com/css2?family=Epilogue&display=swap",
+    "family": "Epilogue"
+  },
+  {
+    "name": "Sora",
+    "cdn": "https://fonts.googleapis.com/css2?family=Sora&display=swap",
+    "family": "Sora"
+  },
+  {
+    "name": "Chivo",
+    "cdn": "https://fonts.googleapis.com/css2?family=Chivo&display=swap",
+    "family": "Chivo"
+  },
+  {
+    "name": "Fraunces",
+    "cdn": "https://fonts.googleapis.com/css2?family=Fraunces&display=swap",
+    "family": "Fraunces"
+  },
+  {
+    "name": "Bitter",
+    "cdn": "https://fonts.googleapis.com/css2?family=Bitter&display=swap",
+    "family": "Bitter"
+  },
+  {
+    "name": "Alegreya",
+    "cdn": "https://fonts.googleapis.com/css2?family=Alegreya&display=swap",
+    "family": "Alegreya"
+  },
+  {
+    "name": "Zilla Slab",
+    "cdn": "https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap",
+    "family": "Zilla Slab"
+  },
+  {
+    "name": "Cormorant",
+    "cdn": "https://fonts.googleapis.com/css2?family=Cormorant&display=swap",
+    "family": "Cormorant"
+  },
+  {
+    "name": "Domine",
+    "cdn": "https://fonts.googleapis.com/css2?family=Domine&display=swap",
+    "family": "Domine"
+  },
+  {
+    "name": "Literata",
+    "cdn": "https://fonts.googleapis.com/css2?family=Literata&display=swap",
+    "family": "Literata"
+  },
+  {
+    "name": "Abril Fatface",
+    "cdn": "https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap",
+    "family": "Abril Fatface"
+  },
+  {
+    "name": "Alfa Slab One",
+    "cdn": "https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap",
+    "family": "Alfa Slab One"
+  },
+  {
+    "name": "Fredoka One",
+    "cdn": "https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap",
+    "family": "Fredoka One"
+  },
+  {
+    "name": "Righteous",
+    "cdn": "https://fonts.googleapis.com/css2?family=Righteous&display=swap",
+    "family": "Righteous"
+  },
+  {
+    "name": "Patua One",
+    "cdn": "https://fonts.googleapis.com/css2?family=Patua+One&display=swap",
+    "family": "Patua One"
+  },
+  {
+    "name": "Luckiest Guy",
+    "cdn": "https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap",
+    "family": "Luckiest Guy"
+  },
+  {
+    "name": "Chewy",
+    "cdn": "https://fonts.googleapis.com/css2?family=Chewy&display=swap",
+    "family": "Chewy"
+  },
+  {
+    "name": "Bangers",
+    "cdn": "https://fonts.googleapis.com/css2?family=Bangers&display=swap",
+    "family": "Bangers"
+  },
+  {
+    "name": "Permanent Marker",
+    "cdn": "https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap",
+    "family": "Permanent Marker"
+  },
+  {
+    "name": "Rock Salt",
+    "cdn": "https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap",
+    "family": "Rock Salt"
+  },
+  {
+    "name": "Amatic SC",
+    "cdn": "https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap",
+    "family": "Amatic SC"
+  },
+  {
+    "name": "Dancing Script",
+    "cdn": "https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap",
+    "family": "Dancing Script"
+  },
+  {
+    "name": "Pacifico",
+    "cdn": "https://fonts.googleapis.com/css2?family=Pacifico&display=swap",
+    "family": "Pacifico"
+  },
+  {
+    "name": "Caveat",
+    "cdn": "https://fonts.googleapis.com/css2?family=Caveat&display=swap",
+    "family": "Caveat"
+  },
+  {
+    "name": "Shadows Into Light",
+    "cdn": "https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap",
+    "family": "Shadows Into Light"
+  },
+  {
+    "name": "Indie Flower",
+    "cdn": "https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap",
+    "family": "Indie Flower"
+  },
+  {
+    "name": "Courgette",
+    "cdn": "https://fonts.googleapis.com/css2?family=Courgette&display=swap",
+    "family": "Courgette"
+  },
+  {
+    "name": "Satisfy",
+    "cdn": "https://fonts.googleapis.com/css2?family=Satisfy&display=swap",
+    "family": "Satisfy"
+  },
+  {
+    "name": "Kalam",
+    "cdn": "https://fonts.googleapis.com/css2?family=Kalam&display=swap",
+    "family": "Kalam"
+  },
+  {
+    "name": "Gloria Hallelujah",
+    "cdn": "https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap",
+    "family": "Gloria Hallelujah"
+  },
+  {
+    "name": "Covered By Your Grace",
+    "cdn": "https://fonts.googleapis.com/css2?family=Covered+By+Your+Grace&display=swap",
+    "family": "Covered By Your Grace"
+  },
+  {
+    "name": "Homemade Apple",
+    "cdn": "https://fonts.googleapis.com/css2?family=Homemade+Apple&display=swap",
+    "family": "Homemade Apple"
+  },
+  {
+    "name": "Nanum Pen Script",
+    "cdn": "https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap",
+    "family": "Nanum Pen Script"
+  },
+  {
+    "name": "Sedgwick Ave Display",
+    "cdn": "https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap",
+    "family": "Sedgwick Ave Display"
+  },
+  {
+    "name": "Monoton",
+    "cdn": "https://fonts.googleapis.com/css2?family=Monoton&display=swap",
+    "family": "Monoton"
+  },
+  {
+    "name": "Press Start 2P",
+    "cdn": "https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap",
+    "family": "Press Start 2P"
+  },
+  {
+    "name": "Special Elite",
+    "cdn": "https://fonts.googleapis.com/css2?family=Special+Elite&display=swap",
+    "family": "Special Elite"
+  },
+  {
+    "name": "VT323",
+    "cdn": "https://fonts.googleapis.com/css2?family=VT323&display=swap",
+    "family": "VT323"
+  },
+  {
+    "name": "Share Tech Mono",
+    "cdn": "https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap",
+    "family": "Share Tech Mono"
+  },
+  {
+    "name": "Courier Prime",
+    "cdn": "https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap",
+    "family": "Courier Prime"
+  },
+  {
+    "name": "IBM Plex Mono",
+    "cdn": "https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap",
+    "family": "IBM Plex Mono"
+  },
+  {
+    "name": "Roboto Mono",
+    "cdn": "https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap",
+    "family": "Roboto Mono"
+  },
+  {
+    "name": "Inconsolata",
+    "cdn": "https://fonts.googleapis.com/css2?family=Inconsolata&display=swap",
+    "family": "Inconsolata"
+  },
+  {
+    "name": "Source Code Pro",
+    "cdn": "https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap",
+    "family": "Source Code Pro"
+  },
+  {
+    "name": "Fira Code",
+    "cdn": "https://fonts.googleapis.com/css2?family=Fira+Code&display=swap",
+    "family": "Fira Code"
+  },
+  {
+    "name": "JetBrains Mono",
+    "cdn": "https://fonts.googleapis.com/css2?family=JetBrains+Mono&display=swap",
+    "family": "JetBrains Mono"
+  }
+]

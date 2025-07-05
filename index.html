@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="iZBI4YLoIGNVjY4VZtQ6SLuJfBwqbhPO27GpnnqIIcs" />
+
+    <title>Free Fonts Collection | Download Premium Quality Fonts for Commercial Use</title>
+    <meta name="description"
+        content="Discover our curated collection of free fonts for designers and developers. Download high-quality fonts for commercial use in your next project.">
+    <meta name="keywords"
+    content="free fonts, best free fonts, free fonts download, free fonts for commercial use, google fonts, adobe fonts, aesthetic fonts, calligraphy fonts, script fonts, sans serif fonts, serif fonts, handwritten fonts, modern fonts, retro fonts, cute fonts, bold fonts, brush fonts, cursive fonts, display fonts, vintage fonts, wedding fonts, horror fonts, pixel fonts">
+    <meta property="og:title" content="Free Fonts Collection | Download Premium Quality Fonts">
+    <meta property="og:description"
+    content="Discover our curated collection of free fonts for designers and developers.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://freefonts.vercel.app/">
+    <meta name="twitter:card" content="summary_large_image">
+    <link rel="canonical" href="https://freefonts.vercel.app/">
+    <link rel="shortcut icon" href="favicon-32x32.png" type="image/x-icon">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preload" href="./fonts.json" as="fetch" crossorigin>
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" as="style">
+
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+
+        .font-card {
+            transition: all 0.3s ease;
+            border: 2px solid gray;
+        }
+
+        .font-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1);
+
+        }
+
+        .gradient-text {
+            background: linear-gradient(90deg, #3b82f6, #8b5cf6);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+        }
+    </style>
+        <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Free Fonts Collection",
+      "url": "https://freefonts.vercel.app/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://freefonts.vercel.app/?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+    </script>
+</head>
+
+<body class="bg-gray-50">
+    <!-- Navigation -->
+    <header class="bg-white shadow-sm">
+        <nav class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="flex justify-between h-16">
+                <div class="flex items-center">
+                    <a href="/" class="text-xl font-bold text-gray-900">Free<span class="text-blue-600">Fonts</span></a>
+                </div>
+                <div class="hidden md:flex items-center space-x-8">
+                    <a href="#featured" class="text-gray-700 hover:text-blue-600">Featured</a>
+                    <a href="#categories" class="text-gray-700 hover:text-blue-600">Categories</a>
+                    <a href="#about" class="text-gray-700 hover:text-blue-600">About</a>
+                    <a href="#faq" class="text-gray-700 hover:text-blue-600">FAQ</a>
+                </div>
+                <div class="flex items-center">
+                    <a href="#search"
+                        class="px-4 py-2 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition">Search
+                        Fonts</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="bg-gradient-to-r from-blue-50 to-purple-50 py-20">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center">
+                <h1 class="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
+                    Discover <span class="gradient-text">Premium Free Fonts</span> for Your Projects
+                </h1>
+                <p class="text-xl text-gray-600 max-w-3xl mx-auto">
+                    Our curated collection of high-quality free fonts for designers and developers. All fonts are free
+                    for commercial use.
+                </p>
+                <div class="mt-10">
+                    <a href="#featured"
+                        class="px-8 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition font-medium">
+                        Explore Fonts
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Featured Fonts -->
+    <section id="featured" class="py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-gray-900">Featured Free Fonts</h2>
+                <p class="mt-4 text-gray-600 max-w-2xl mx-auto">
+                    Hand-picked selection of the best free fonts available for download
+                </p>
+            </div>
+
+            <!-- Search Bar -->
+            <div id="search" class="max-w-2xl mx-auto mb-12">
+                <div class="relative">
+                    <input type="text" id="font-search"
+                        placeholder="Search fonts by name (e.g. Roboto, Sans-serif, Handwriting...)"
+                        class="w-full px-6 py-4 border border-gray-200 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                    <div class="absolute right-3 top-3.5">
+                        <i class="fas fa-search text-gray-400"></i>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Fonts Container -->
+            <div id="fonts-container" class="space-y-8">
+                <!-- Fonts will be loaded here -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Categories -->
+    <section id="categories" class="py-16 bg-gray-50">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-gray-900">Popular Font Categories</h2>
+                <p class="mt-4 text-gray-600 max-w-2xl mx-auto">
+                    Browse fonts by popular categories and styles
+                </p>
+            </div>
+            <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+                <a href="#" class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition text-center">
+                    <div class="text-blue-600 mb-3 text-2xl">
+                        <i class="fas fa-brush"></i>
+                    </div>
+                    <h3 class="font-medium text-gray-900">Handwritten</h3>
+                    <p class="text-sm text-gray-500 mt-1">Natural writing styles</p>
+                </a>
+                <a href="#" class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition text-center">
+                    <div class="text-blue-600 mb-3 text-2xl">
+                        <i class="fas fa-pen-fancy"></i>
+                    </div>
+                    <h3 class="font-medium text-gray-900">Script</h3>
+                    <p class="text-sm text-gray-500 mt-1">Elegant cursive fonts</p>
+                </a>
+                <a href="#" class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition text-center">
+                    <div class="text-blue-600 mb-3 text-2xl">
+                        <i class="fas fa-font"></i>
+                    </div>
+                    <h3 class="font-medium text-gray-900">Serif</h3>
+                    <p class="text-sm text-gray-500 mt-1">Classic, traditional fonts</p>
+                </a>
+                <a href="#" class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition text-center">
+                    <div class="text-blue-600 mb-3 text-2xl">
+                        <i class="fas fa-text-width"></i>
+                    </div>
+                    <h3 class="font-medium text-gray-900">Sans-serif</h3>
+                    <p class="text-sm text-gray-500 mt-1">Modern, clean fonts</p>
+                </a>
+                <a href="#" class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition text-center">
+                    <div class="text-blue-600 mb-3 text-2xl">
+                        <i class="fas fa-magic"></i>
+                    </div>
+                    <h3 class="font-medium text-gray-900">Display</h3>
+                    <p class="text-sm text-gray-500 mt-1">Decorative fonts</p>
+                </a>
+                <a href="#" class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition text-center">
+                    <div class="text-blue-600 mb-3 text-2xl">
+                        <i class="fas fa-paint-brush"></i>
+                    </div>
+                    <h3 class="font-medium text-gray-900">Brush</h3>
+                    <p class="textsm text-gray-500 mt-1">Paintbrush style fonts</p>
+                </a>
+                <a href="#" class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition text-center">
+                    <div class="text-blue-600 mb-3 text-2xl">
+                        <i class="fas fa-ghost"></i>
+                    </div>
+                    <h3 class="font-medium text-gray-900">Horror</h3>
+                    <p class="text-sm text-gray-500 mt-1">Scary, creepy fonts</p>
+                </a>
+                <a href="#" class="bg-white p-6 rounded-xl shadow-sm hover:shadow-md transition text-center">
+                    <div class="text-blue-600 mb-3 text-2xl">
+                        <i class="fas fa-gamepad"></i>
+                    </div>
+                    <h3 class="font-medium text-gray-900">Pixel</h3>
+                    <p class="text-sm text-gray-500 mt-1">Retro gaming fonts</p>
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="py-16 bg-white">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="lg:grid lg:grid-cols-2 lg:gap-16 items-center">
+                <div class="mb-10 lg:mb-0">
+                    <h2 class="text-3xl font-bold text-gray-900 mb-6">About FreeFonts</h2>
+                    <p class="text-gray-600 mb-4">
+                        FreeFonts is a curated collection of high-quality fonts that are completely free for personal
+                        and commercial use.
+                        Our mission is to provide designers and developers with access to beautiful typography without
+                        the high costs.
+                    </p>
+                    <p class="text-gray-600 mb-4">
+                        We carefully select each font in our collection to ensure they meet our quality standards. All
+                        fonts are properly
+                        licensed for commercial use, so you can use them in client projects without worry.
+                    </p>
+                    <p class="text-gray-600">
+                        Whether you're working on a website, mobile app, logo design, or print project, you'll find the
+                        perfect font
+                        in our growing library.
+                    </p>
+                </div>
+                <div class="bg-gray-100 rounded-xl p-8">
+                    <div class="space-y-4">
+                        <div class="flex items-start">
+                            <div class="flex-shrink-0 mt-1">
+                                <i class="fas fa-check-circle text-green-500"></i>
+                            </div>
+                            <div class="ml-3">
+                                <h3 class="text-lg font-medium text-gray-900">100% Free</h3>
+                                <p class="text-gray-600">All fonts are completely free to use, even for commercial
+                                    projects.</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start">
+                            <div class="flex-shrink-0 mt-1">
+                                <i class="fas fa-check-circle text-green-500"></i>
+                            </div>
+                            <div class="ml-3">
+                                <h3 class="text-lg font-medium text-gray-900">Curated Quality</h3>
+                                <p class="text-gray-600">We hand-pick each font to ensure high quality and design
+                                    standards.</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start">
+                            <div class="flex-shrink-0 mt-1">
+                                <i class="fas fa-check-circle text-green-500"></i>
+                            </div>
+                            <div class="ml-3">
+                                <h3 class="text-lg font-medium text-gray-900">Easy to Use</h3>
+                                <p class="text-gray-600">One-click downloads and simple installation instructions.</p>
+                            </div>
+                        </div>
+                        <div class="flex items-start">
+                            <div class="flex-shrink-0 mt-1">
+                                <i class="fas fa-check-circle text-green-500"></i>
+                            </div>
+                            <div class="ml-3">
+                                <h3 class="text-lg font-medium text-gray-900">Regular Updates</h3>
+                                <p class="text-gray-600">We constantly add new fonts to keep our collection fresh.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section id="faq" class="py-16 bg-gray-50">
+        <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="text-center mb-12">
+                <h2 class="text-3xl font-bold text-gray-900">Frequently Asked Questions</h2>
+                <p class="mt-4 text-gray-600 max-w-2xl mx-auto">
+                    Find answers to common questions about our free fonts
+                </p>
+            </div>
+            <div class="space-y-6">
+                <div class="bg-white p-6 rounded-lg shadow-sm">
+                    <h3 class="text-lg font-medium text-gray-900">Are these fonts really free for commercial use?</h3>
+                    <p class="mt-2 text-gray-600">
+                        Yes! All fonts in our collection are free for both personal and commercial use. We verify the
+                        license of each font before adding it to our collection.
+                    </p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-sm">
+                    <h3 class="text-lg font-medium text-gray-900">How do I download and install these fonts?</h3>
+                    <p class="mt-2 text-gray-600">
+                        Simply click the download button on any font page. After downloading the font file, you can
+                        install it on your computer by double-clicking the file and clicking "Install". For detailed
+                        instructions, check our installation guide.
+                    </p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-sm">
+                    <h3 class="text-lg font-medium text-gray-900">Can I use these fonts on my website?</h3>
+                    <p class="mt-2 text-gray-600">
+                        Absolutely! Most of our fonts can be used on websites. Many are available through Google Fonts
+                        or have web font versions available for download.
+                    </p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-sm">
+                    <h3 class="text-lg font-medium text-gray-900">How often do you add new fonts?</h3>
+                    <p class="mt-2 text-gray-600">
+                        We add new fonts to our collection weekly. We're always on the lookout for high-quality free
+                        fonts to add to our library.
+                    </p>
+                </div>
+                <div class="bg-white p-6 rounded-lg shadow-sm">
+                    <h3 class="text-lg font-medium text-gray-900">Can I request a specific font?</h3>
+                    <p class="mt-2 text-gray-600">
+                        Yes! We welcome font suggestions. If you're looking for a specific style of font, contact us and
+                        we'll try to find a high-quality free version for you.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- CTA Section -->
+    <section class="py-16 bg-gradient-to-r from-blue-600 to-purple-600">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+            <h2 class="text-3xl font-bold text-white mb-6">Ready to Find Your Perfect Font?</h2>
+            <p class="text-xl text-blue-100 max-w-3xl mx-auto mb-8">
+                Browse our collection of premium free fonts and elevate your design projects today.
+            </p>
+            <a href="#featured"
+                class="inline-block px-8 py-3 bg-white text-blue-600 rounded-md hover:bg-gray-100 transition font-medium">
+                Explore All Fonts
+            </a>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-12">
+        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+                <div>
+                    <h3 class="text-xl font-bold mb-4">FreeFonts</h3>
+                    <p class="text-gray-400">
+                        The best collection of free fonts for designers and developers.
+                    </p>
+                </div>
+
+
+            </div>
+            <div class="border-t border-gray-800 mt-12 pt-8 text-center text-gray-400">
+                <p>© 2024 FreeFonts. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+
+</html>
